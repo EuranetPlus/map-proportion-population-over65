@@ -1,12 +1,12 @@
 {
   "heading": "Mekkora a 65 év felettiek aránya az EU-ban? ",
-  "subheading": "2023-ra az Európai Unió átlagos 65 év feletti népessége 21,3 százalék volt, ami 1,1 százalékos növekedés 2019-hez képest",
+  "subheading": "2023-ra az Európai Unió átlagos 65 éves és idősebb népessége 21,3% volt, ami 1,1%-kal több, mint 2019-ben",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "a lakosság",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "jegyzet",
-  "textNote": "A 65 év feletti népesség aránya a statisztikák alapján a 65-79 éves és a 79 év feletti népesség arányához.",
+  "textNote": "A 65 év feletti népesség aránya a statisztikák alapján a 65-79 éves és 79 év feletti népesség arányához.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "További információért kattintson"

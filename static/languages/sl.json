@@ -1,13 +1,13 @@
 {
   "heading": "Kolikšen je delež starejših od 65 let v EU? ",
-  "subheading": "Do leta 2023 je imela Evropska unija povprečno 21,3-odstotno prebivalstvo, staro 65 let ali več, kar je 1,1 % več kot leta 2019.",
+  "subheading": "Do leta 2023 je imela Evropska unija povprečno 21,3 % prebivalcev, starih 65 let in več, kar je 1,1 % več kot leta 2019.",
   "legend1": "Ni podatkov",
   "tooltip1": "prebivalstva",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "Delež prebivalstva, starejšega od 65 let, na podlagi statističnih podatkov glede na delež prebivalstva, starega 65–79 let in več kot 79 let.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

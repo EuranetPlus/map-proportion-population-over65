@@ -1,13 +1,13 @@
 {
   "heading": "Hvad er andelen af personer over 65 i EU? ",
-  "subheading": "I 2023 havde EU en gennemsnitlig befolkning på 65+ på 21,3 procent, en stigning på 1,1 % fra 2019",
+  "subheading": "I 2023 havde EU en gennemsnitlig befolkning på 65 år og derover på 21,3 %, 1,1 % mere end i 2019",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "af befolkningen",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Bemærk",
   "textNote": "Befolkningsandel over 65 år baseret på statistik til befolkningsandel i alderen 65-79 og over 79.",
-  "textDataAccess": "Få adgang til data",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=da",
   "textCountryClick": "Klik for mere info"
 }
