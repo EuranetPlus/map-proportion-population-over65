@@ -1,13 +1,13 @@
 {
-  "heading": "Kāda ir cilvēku, kas vecāki par 65 gadiem, daļa ES? ",
-  "subheading": "Līdz 2023. gadam Eiropas Savienībā vidēji 65 gadus veci un vecāki iedzīvotāji bija 21,3 % jeb par 1,1 % vairāk nekā 2019. gadā.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Kāda ir to cilvēku daļa, kas vecāki par 65 gadiem, ES?",
+  "subheading": "Līdz 2023. gadam Eiropas Savienības vidējais iedzīvotāju skaits vecumā no 65 gadiem bija 21,3 %, kas ir par 1,1 % vairāk nekā 2019. gadā.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "iedzīvotāju",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Iedzīvotāju daļa, kas vecāka par 65 gadiem, pamatojoties uz statistiku, attiecībā pret iedzīvotāju daļu vecumā no 65 līdz 79 gadiem un vecākiem par 79 gadiem.",
+  "textNote": "Iedzīvotāju īpatsvars vecumā virs 65 gadiem, pamatojoties uz statistiku, attiecībā pret iedzīvotāju īpatsvaru vecumā no 65 līdz 79 gadiem un vecākiem par 79 gadiem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

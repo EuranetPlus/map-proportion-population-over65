@@ -1,13 +1,13 @@
 {
-  "heading": "Kokia yra vyresnių nei 65 metų žmonių dalis ES? ",
-  "subheading": "2023 m. Europos Sąjungoje vidutiniškai 65 metų ir vyresni gyventojų buvo 21,3, ty 1,1 % daugiau nei 2019 m.",
+  "heading": "Kokia yra vyresnių nei 65 metų žmonių dalis ES?",
+  "subheading": "Iki 2023 m. Europos Sąjungoje vidutinis 65 metų ir vyresnių gyventojų skaičius sudarė 21,3 %, t. y. 1,1 % daugiau nei 2019 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "gyventojų",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Vyresnių nei 65 metų gyventojų dalis pagal statistiką ir 65–79 metų ir vyresnių 79 metų amžiaus gyventojų dalis.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Vyresnių nei 65 metų gyventojų dalis, remiantis statistika, palyginti su 65–79 metų ir vyresnių nei 79 metų gyventojų dalimi.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

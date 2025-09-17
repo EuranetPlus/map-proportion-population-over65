@@ -1,13 +1,13 @@
 {
-  "heading": "Koliki je udio starijih od 65 godina u EU? ",
-  "subheading": "Do 2023. Europska unija imala je prosječno stanovništvo u dobi od 65 i više godina od 21,3%, 1,1% više nego 2019.",
+  "heading": "Koliki je udio osoba starijih od 65 godina u EU?",
+  "subheading": "Do 2023. godine Europska unija imala je prosječno 21,3% stanovništva u dobi od 65 i više godina, što je 1,1% više nego 2019. godine.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "stanovništva",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Udio stanovništva starijeg od 65 godina na temelju statistike prema udjelu stanovništva starosne dobi 65-79 i starijeg od 79 godina.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Udio stanovništva starijeg od 65 godina na temelju statistike u odnosu na udio stanovništva u dobi od 65-79 godina i starijeg od 79 godina.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

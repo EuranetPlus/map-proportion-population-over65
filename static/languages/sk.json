@@ -1,13 +1,13 @@
 {
-  "heading": "Aký je podiel ľudí nad 65 rokov v EÚ? ",
-  "subheading": "Do roku 2023 mala Európska únia priemernú populáciu vo veku 65 rokov a viac 21,3 %, čo je o 1,1 % viac ako v roku 2019",
+  "heading": "Aký je podiel ľudí nad 65 rokov v EÚ?",
+  "subheading": "Do roku 2023 mala Európska únia priemernú populáciu vo veku 65 rokov a viac 21,3 %, čo je o 1,1 % viac ako v roku 2019.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "obyvateľov",
+  "tooltip1": "populácie",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Podiel obyvateľov nad 65 rokov na základe štatistiky k podielu obyvateľov vo veku 65-79 rokov a nad 79 rokov.",
+  "textNote": "Podiel populácie nad 65 rokov na základe štatistík k podielu populácie vo veku 65 – 79 rokov a nad 79 rokov.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

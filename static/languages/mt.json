@@ -1,13 +1,13 @@
 {
-  "heading": "X'inhu s-sehem ta' nies 'il fuq minn 65 fl-UE? ",
-  "subheading": "Sal-2023, l-Unjoni Ewropea kellha popolazzjoni medja ta' 65 sena jew aktar ta' 21.3%, 1.1% aktar mill-2019",
+  "heading": "X'inhu s-sehem ta' nies 'il fuq minn 65 sena fl-UE?",
+  "subheading": "Sal-2023, l-Unjoni Ewropea kellha popolazzjoni medja ta’ 65 sena jew aktar ta’ 21.3%, 1.1% aktar milli fl-2019",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-popolazzjoni",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Is-sehem tal-popolazzjoni 'l fuq minn 65 ibbażat fuq statistika mas-sehem tal-popolazzjoni ta' bejn 65-79 u aktar minn 79.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Is-sehem tal-popolazzjoni 'l fuq minn 65 sena bbażat fuq statistika għas-sehem tal-popolazzjoni ta' bejn 65-79 sena u 'l fuq minn 79 sena.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

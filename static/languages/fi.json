@@ -1,13 +1,13 @@
 {
-  "heading": "Mikä on yli 65-vuotiaiden osuus EU:ssa? ",
-  "subheading": "Vuoteen 2023 mennessä Euroopan unionin keskimääräinen 65-vuotias ja sitä vanhempi väestö oli 21,3 % eli 1,1 % enemmän kuin vuonna 2019",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Mikä on yli 65-vuotiaiden osuus EU:ssa?",
+  "subheading": "Vuoteen 2023 mennessä Euroopan unionin väestöstä 65-vuotiaiden ja sitä vanhempien osuus oli keskimäärin 21,3 %, mikä on 1,1 % enemmän kuin vuonna 2019.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "väestöstä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Yli 65-vuotiaiden väestöosuus tilastojen mukaan 65-79-vuotiaiden ja yli 79-vuotiaiden osuuteen.",
+  "textNote": "Yli 65-vuotiaiden väestönosuus tilastojen perusteella suhteessa 65–79-vuotiaiden ja yli 79-vuotiaiden väestönosuuteen.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

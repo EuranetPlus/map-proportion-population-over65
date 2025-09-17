@@ -1,12 +1,12 @@
 {
-  "heading": "Kui suur on üle 65-aastaste inimeste osatähtsus ELis? ",
-  "subheading": "2023. aastaks oli Euroopa Liidus keskmiselt 65-aastaste ja vanemate elanike arv 21,3%, mis on 1,1% rohkem kui 2019. aastal",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "rahvastikust",
+  "heading": "Kui suur on üle 65-aastaste inimeste osakaal ELis?",
+  "subheading": "2023. aastaks oli Euroopa Liidu keskmine elanikkond 65-aastaste ja vanemate seas 21,3%, mis on 1,1% rohkem kui 2019. aastal.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "elanikkonnast",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Üle 65-aastaste osakaal statistika põhjal 65–79-aastaste ja üle 79-aastaste elanikkonna osakaalu suhtes.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Üle 65-aastaste elanike osakaal statistika põhjal võrreldes 65–79-aastaste ja üle 79-aastaste elanikkonna osakaaluga.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

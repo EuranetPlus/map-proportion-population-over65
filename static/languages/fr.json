@@ -1,12 +1,12 @@
 {
-  "heading": "Quelle est la part des personnes de plus de 65 ans dans l’UE ? ",
-  "subheading": "En 2023, l'Union européenne comptait une population moyenne âgée de 65 ans et plus de 21,3 %, soit 1,1 % de plus qu'en 2019.",
-  "legend1": "Pas de données disponibles",
+  "heading": "Quelle est la part des personnes de plus de 65 ans dans l’UE ?",
+  "subheading": "En 2023, l'Union européenne comptait en moyenne 21,3 % de sa population âgée de 65 ans et plus, soit 1,1 % de plus qu'en 2019.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "de la population",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Part de la population âgée de plus de 65 ans, basée sur les statistiques, par rapport à la part de la population âgée de 65 à 79 ans et de plus de 79 ans.",
+  "textNote": "Part de la population âgée de plus de 65 ans selon les statistiques par rapport à la part de la population âgée de 65 à 79 ans et de plus de 79 ans.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

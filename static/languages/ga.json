@@ -1,13 +1,13 @@
 {
-  "heading": "Cad é an sciar de dhaoine os cionn 65 san AE? ",
-  "subheading": "Faoi 2023, bhí meándaonra 65 bliain d’aois agus os a chionn ag an Aontas Eorpach de 21.3%, 1.1% níos mó ná in 2019",
+  "heading": "Cad é sciar na ndaoine os cionn 65 bliain d'aois san AE?",
+  "subheading": "Faoi 2023, bhí meándhaonra 65 bliain d’aois agus os a chionn de 21.3% san Aontas Eorpach, 1.1% níos mó ná in 2019.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "den daonra",
+  "tooltip1": "daonra",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Sciar an daonra os cionn 65 bunaithe ar staitisticí go sciar an daonra 65-79 bliain d’aois agus os cionn 79.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=ga",
+  "textNote": "Sciar an daonra os cionn 65 bliain d'aois bunaithe ar staitisticí i gcomparáid le sciar an daonra idir 65 agus 79 bliain d'aois agus os cionn 79 bliain d'aois.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Jaký je podíl lidí starších 65 let v EU? ",
-  "subheading": "Do roku 2023 měla Evropská unie průměrnou populaci ve věku 65 let a více 21,3 %, což je o 1,1 % více než v roce 2019",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Jaký je podíl lidí starších 65 let v EU?",
+  "subheading": "Do roku 2023 měla Evropská unie průměrnou populaci ve věku 65 let a starších 21,3 %, což je o 1,1 % více než v roce 2019.",
+  "legend1": "Žádné údaje k dispozici",
   "tooltip1": "populace",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Podíl obyvatel nad 65 let na základě statistik k podílu obyvatel ve věku 65–79 let a nad 79 let.",
+  "textNote": "Podíl populace nad 65 let na základě statistik k podílu populace ve věku 65–79 let a nad 79 let.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=cs",
   "textCountryClick": "Klikněte pro více informací"

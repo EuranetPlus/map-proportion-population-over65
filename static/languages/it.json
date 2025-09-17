@@ -1,13 +1,13 @@
 {
-  "heading": "Qual è la percentuale di persone con più di 65 anni nell'UE? ",
-  "subheading": "Al 2023, l’Unione Europea avrà una popolazione media di 65 anni e più pari al 21,3%, 1,1% in più rispetto al 2019",
+  "heading": "Qual è la percentuale di persone con più di 65 anni nell'UE?",
+  "subheading": "Entro il 2023, l'Unione Europea aveva una popolazione media di età pari o superiore a 65 anni pari al 21,3%, l'1,1% in più rispetto al 2019",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "di popolazione",
+  "tooltip1": "della popolazione",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Quota di popolazione over 65 in base alle statistiche sulla quota di popolazione di età compresa tra 65 e 79 anni e over 79.",
+  "textNote": "Percentuale di popolazione con più di 65 anni in base alle statistiche sulla quota di popolazione di età compresa tra 65 e 79 anni e oltre 79 anni.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=it",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }
