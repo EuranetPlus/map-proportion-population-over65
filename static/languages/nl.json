@@ -1,13 +1,13 @@
 {
-  "heading": "Wat is het aandeel mensen ouder dan 65 in de EU?",
-  "subheading": "In 2023 had de Europese Unie een gemiddelde bevolking van 65 jaar en ouder van 21,3%, 1,1% meer dan in 2019",
+  "heading": "Wat is het percentage mensen ouder dan 65 jaar in de EU?",
+  "subheading": "In 2024 bedroeg het gemiddelde percentage inwoners van de Europese Unie dat 65 jaar of ouder was 21,6%, 6,4% meer dan in 2019.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van de bevolking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Bevolkingsaandeel 65-plussers gebaseerd op statistieken over bevolkingsaandeel van 65-79 jaar en ouder dan 79.",
+  "textNote": "Het aandeel van de bevolking ouder dan 65 jaar is gebaseerd op statistieken over de bevolking in de leeftijdsgroepen 65-79 en ouder dan 79 jaar.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

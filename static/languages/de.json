@@ -1,13 +1,13 @@
 {
   "heading": "Wie hoch ist der Anteil der über 65-Jährigen in der EU?",
-  "subheading": "Bis 2023 hatte die Europäische Union einen durchschnittlichen Bevölkerungsanteil von 65 Jahren und älter von 21,3 %, 1,1 % mehr als im Jahr 2019",
+  "subheading": "Bis 2024 sollte der Anteil der Bevölkerung ab 65 Jahren in der Europäischen Union durchschnittlich 21,6 % betragen, 6,4 % mehr als im Jahr 2019.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Bevölkerung",
+  "tooltip1": "Bevölkerung",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Bevölkerungsanteil über 65 basierend auf Statistiken zum Bevölkerungsanteil im Alter von 65–79 und über 79.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Bevölkerungsanteil über 65 Jahre basierend auf Statistiken im Verhältnis zum Bevölkerungsanteil im Alter von 65-79 Jahren und über 79 Jahren.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010__custom_12163365/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }
